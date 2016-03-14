@@ -15,6 +15,10 @@ knit        : slidify::knit2slides
 
 The idea for my Shiny App was to allow the user to enter some numeric input, and then have the server double the value. I kept the idea super simple so I could just focus on learning the basics of Shiny.
 
+To see this shiny app in action, click the link below:
+
+https://tcoxmonkeycoder.shinyapps.io/DevelopingDataProducts/
+
 ---
 
 ## Details
